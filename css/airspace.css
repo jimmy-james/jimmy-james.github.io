@@ -159,7 +159,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .section-title p {
   padding-top: 20px;
 }
-#test {
+#skills {
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -175,7 +175,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #service {
   text-align: center;
   padding: 90px 0;
-  margin: 10%;
+  margin: 7%;
 }
 #service .service-item {
   padding-bottom: 30px;
