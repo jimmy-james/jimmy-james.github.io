@@ -165,7 +165,6 @@ font header .navbar-default .navbar-nav li a:hover {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-  align-items: center;
   align-content: flex-start space-around;
   flex-flow: wrap;
 }
