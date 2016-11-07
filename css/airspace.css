@@ -167,8 +167,8 @@ font header .navbar-default .navbar-nav li a:hover {
   display: flex;
   align-items: center;
   align-content: center;
-  align-content: space-between;
-  flex-wrap: wrap;
+  /*align-content: space-between;*/
+  flex-flow: wrap;
 }
 /*--
 	service Start
@@ -176,7 +176,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #service {
   text-align: center;
   padding: 90px 0;
-  margin: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 #service .service-item {
   padding-bottom: 30px;
