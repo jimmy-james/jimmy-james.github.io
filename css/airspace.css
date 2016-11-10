@@ -819,3 +819,10 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+
+.project-title {
+  text-align: center;
+}
+.proj-button {
+  color: #1c98c9;
+}
