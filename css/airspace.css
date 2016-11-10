@@ -542,7 +542,7 @@ font header .navbar-default .navbar-nav li a:hover {
   flex-flow: wrap;
 }
 #portfolio-work .block .portfolio-contant {
-  position: absolute;
+  /*position: absolute;*/
   top: 50%;
   left: 10%;
   -webkit-transform: translate(0%, 50%);
@@ -552,6 +552,15 @@ font header .navbar-default .navbar-nav li a:hover {
   -webkit-transition: .5s all;
   -o-transition: .5s all;
   transition: .5s all;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-flow: wrap;
 }
 #portfolio-work .block .mix {
   display: none;
