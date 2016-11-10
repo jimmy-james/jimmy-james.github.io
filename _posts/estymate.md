@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "E$tymate Film Budgeting App"
 author: "James Kim"
 meta: "estymate"

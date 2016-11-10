@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "So & So Chat App"
 author: "James Kim"
 meta: "so&so"

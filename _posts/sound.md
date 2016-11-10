@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Virtual Sound"
 author: "James Kim"
 meta: "virtual sound"
