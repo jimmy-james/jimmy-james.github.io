@@ -97,7 +97,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  /*background: url("../img/slider-bg.jpg") no-repeat;*/
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -837,5 +837,5 @@ footer .footer-manu ul li a:hover {
   align-content: center;
   justify-content: center;
   align-content: space-between;
-  flex-flow: row;
+  flex-wrap: row;
 }
