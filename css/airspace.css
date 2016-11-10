@@ -838,12 +838,12 @@ footer .footer-manu ul li a:hover {
   align-content: space-between;
   flex-wrap: row;
 }
-.link-buttons {
+#link-buttons {
   height: 10px;
   width: 10px;
   word-wrap: normal;
   outline-color: blue;
   padding: 5px;
   margin: 10px;
-  
+
 }
