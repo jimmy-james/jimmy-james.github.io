@@ -823,7 +823,7 @@ footer .footer-manu ul li a:hover {
 .project-title {
   text-align: center;
 }
-.proj-links {
+#proj-links {
   padding: 10px;
   margin: 10px;
   text-align: center;
