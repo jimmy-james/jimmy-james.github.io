@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: page
 title: "E$tymate Film Budgeting App"
 author: "James Kim"
 meta: "estymate"
+permalink: /estymate/
 ---
 ## A film production budgeting app written in JavaScript, built in Reactjs, and served on Node/Express"
 

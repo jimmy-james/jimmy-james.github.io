@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: page
 title: "Virtual Sound"
 author: "James Kim"
 meta: "virtual sound"
+permalink: /sound/
 ---
 ## A virtual keyboard app written in JavaScript, built in Reactjs, and served on Node/Express"
 
