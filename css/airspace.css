@@ -839,8 +839,11 @@ footer .footer-manu ul li a:hover {
   flex-wrap: row;
 }
 .link-buttons {
+  height: 10px;
+  width: 10px;
+  word-wrap: normal;
   outline-color: blue;
   padding: 5px;
-  margin: auto;
+  margin: 10px;
   
 }
