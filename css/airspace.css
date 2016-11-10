@@ -533,7 +533,7 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 #portfolio-work .block .portfolio-contant .position-center {
-  /*position: absolute;*/
+  position: absolute;
   top: 50%;
   left: 10%;
   -webkit-transform: translate(0%, 50%);
