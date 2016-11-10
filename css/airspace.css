@@ -414,17 +414,6 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	portfolio-work Start
 --*/
-.row {
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    flex-flow: wrap;
-}
 #portfolio-work {
   overflow: hidden;
   padding: 80px 0;
@@ -552,7 +541,7 @@ font header .navbar-default .navbar-nav li a:hover {
   align-content: center;
   flex-flow: wrap;
 }
-#portfolio-work .block .portfolio-contant .position-center {
+#portfolio-work .block .portfolio-contant {
   position: absolute;
   top: 50%;
   left: 10%;
