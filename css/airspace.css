@@ -538,8 +538,8 @@ font header .navbar-default .navbar-nav li a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  align-content: center;
-  flex-flow: wrap;
+  align-content: flex-start;
+  flex-wrap: wrap;
 }
 #portfolio-work .block .portfolio-contant .position-center {
   /*position: absolute;*/
