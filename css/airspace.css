@@ -824,9 +824,10 @@ footer .footer-manu ul li a:hover {
   text-align: center;
 }
 .proj-links {
-  color: #1c98c9;
-  padding: 5px;
-  margin: 5px;
+  background-color: #1c98c9;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
