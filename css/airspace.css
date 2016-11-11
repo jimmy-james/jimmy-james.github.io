@@ -819,7 +819,9 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
-
+#button-section {
+  margin-bottom: 20px;
+}
 .project-title {
   text-align: center;
   margin: 5%;
@@ -855,7 +857,7 @@ footer .footer-manu ul li a:hover {
   align-content: center;
   justify-content: center;
 }
-.tech {
+#tech {
   display: flex;
   align-items: center;
   margin: 5%
