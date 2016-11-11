@@ -856,10 +856,10 @@ footer .footer-manu ul li a:hover {
   display: flex;
   align-items: center;
   align-content: center;
-  justify-content: center;
+  justify-content: space-between;
 }
 #tech {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .tech-stack {
   font-family: Open Sans, Helvetica Neueu, sans-serif;
