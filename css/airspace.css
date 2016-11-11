@@ -827,8 +827,7 @@ footer .footer-manu ul li a:hover {
   margin: 5%;
 }
 #proj-links {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin: 10px 15px 10px 15px;
   text-align: center;
   display: -webkit-box;
   display: -moz-box;
@@ -865,6 +864,5 @@ footer .footer-manu ul li a:hover {
 .tech-stack {
   font-family: Open Sans, Helvetica Neueu, sans-serif;
   font-weight: bolder;
-  margin-bottom: 20px;
   text-align: center;
 }
