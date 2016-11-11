@@ -860,7 +860,7 @@ footer .footer-manu ul li a:hover {
 #tech {
   display: flex;
   align-items: center;
-  margin: 5%
+  margin-bottom: 20px;
 }
 .tech-stack {
   font-family: Open Sans, Helvetica Neueu, sans-serif;
