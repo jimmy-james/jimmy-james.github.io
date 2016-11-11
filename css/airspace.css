@@ -840,10 +840,10 @@ footer .footer-manu ul li a:hover {
 }
 .link-buttons {
   height: 50px;
-  width: 100px;
+  width: 120px;
   font-weight: bold;
   border-style: solid;
-  border-radius: 10px;
+  border-radius: 5px;
   padding: auto;
   margin: 10px 15px 20px 15px;
   display: -webkit-box;
@@ -858,6 +858,7 @@ footer .footer-manu ul li a:hover {
 .tech {
   display: flex;
   align-items: center;
+  margin: 5%
 }
 .tech-stack {
   font-family: Open Sans, Helvetica Neueu, sans-serif;
