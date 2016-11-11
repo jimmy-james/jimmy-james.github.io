@@ -845,7 +845,7 @@ footer .footer-manu ul li a:hover {
   border-style: solid;
   border-radius: 5px;
   padding: auto;
-  margin: 10px 15px 20px 15px;
+  margin-bottom: 20px;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -863,6 +863,6 @@ footer .footer-manu ul li a:hover {
 .tech-stack {
   font-family: Open Sans, Helvetica Neueu, sans-serif;
   font-weight: bolder;
-  margin: 10px 0 10px 0;
+  margin-bottom: 15px;
   text-align: center;
 }
