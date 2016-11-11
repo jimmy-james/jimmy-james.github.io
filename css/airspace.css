@@ -112,7 +112,7 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   right: 0;
   width: 100%;
-  height: 100%;
+  height: 70%;
   background: linear-gradient(to left, #8b86a3, #322e40);
   opacity: 0.8;
 }
@@ -122,13 +122,13 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
-  font-size: 45px;
+  font-size: 47px;
   line-height: 60px;
-  letter-spacing: 10px;
-  padding-bottom: 45px;
+  letter-spacing: 7px;
+  padding-bottom: 20px;
 }
 #slider .block p {
-  font-size: 23px;
+  font-size: 27px;
   line-height: 40px;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
