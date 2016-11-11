@@ -176,7 +176,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #service {
   text-align: center;
-  padding: 90px 0;
+  /*padding: 90px 0;*/
   margin-left: 5%;
   margin-right: 5%;
 }
@@ -188,7 +188,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #4A4656;
 }
 #service .service-item h4 {
-  padding-top: 20px;
+  /*padding-top: 20px;*/
   margin: 0;
   color: #666;
 }
