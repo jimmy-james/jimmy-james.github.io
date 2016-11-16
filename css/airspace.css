@@ -500,7 +500,7 @@ font header .navbar-default .navbar-nav li a:hover {
   transform: translate(0%, -50%);
 }
 #portfolio-work .block .portfolio-contant ul li a {
-  display: block;
+  /*display: block;*/
   color: #fff;
 }
 #portfolio-work .block .portfolio-contant ul li a h2 {
