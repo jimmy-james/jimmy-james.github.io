@@ -859,9 +859,8 @@ footer .footer-manu ul li a:hover {
   justify-content: center;
 }
 #tech {
-  margin-bottom: 40px;
-  margin-right: 45px;  
-  margin-left: 45px;
+  margin: 40px 100px;
+  font-family: Open Sans, Helvetica Neueu, sans-serif;
 }
 .tech-stack {
   font-family: Open Sans, Helvetica Neueu, sans-serif;
