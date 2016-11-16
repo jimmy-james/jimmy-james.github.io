@@ -858,11 +858,11 @@ footer .footer-manu ul li a:hover {
   align-content: center;
   justify-content: center;
 }
-.tech {
-  margin-top: 40px;
-  margin-bottom: 40px;
-  margin-right: 100px;  
-  margin-left: 100px;
+#tech {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-right: 300px;  
+  margin-left: 300px;
   font-family: Open Sans, Helvetica Neueu, sans-serif;
 }
 .tech-stack {
