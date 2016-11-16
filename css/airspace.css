@@ -445,7 +445,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-menu ul .active:before {
   content: "\f0d7";
-  position: absolute;
+  /*position: absolute;*/
   font-family: 'FontAwesome';
   bottom: -18px;
   font-size: 30px;
@@ -464,7 +464,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-menu ul li:hover:before {
   content: "\f0d7";
-  position: absolute;
+  /*position: absolute;*/
   font-family: 'FontAwesome';
   bottom: -18px;
   font-size: 30px;
