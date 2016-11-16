@@ -314,9 +314,9 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #testimonial .testimonial-carousel {
   text-align: center;
-  width: 75%;
+  width: 30%;
   border: 1px solid #DEDEDE;
-  padding: 24px;
+  padding: 20px;
   margin: auto;
 }
 #testimonial .testimonial-carousel img {
@@ -826,7 +826,7 @@ footer .footer-manu ul li a:hover {
 .project-title {
   text-align: center;
   margin: 5%;
-  margin-bottom: 30px;
+  margin-bottom: 55px;
 }
 #proj-links {
   text-align: center;
@@ -859,10 +859,21 @@ footer .footer-manu ul li a:hover {
   justify-content: center;
 }
 #tech {
-  margin-bottom: 40px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-right: 100px;  
+  margin-left: 100px;
+  font-family: Open Sans, Helvetica Neueu, sans-serif;
 }
 .tech-stack {
   font-family: Open Sans, Helvetica Neueu, sans-serif;
   font-weight: bolder;
   text-align: center;
+}
+.tech-about {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: 100px;  
+  margin-left: 100px;
+    font-family: Open Sans, Helvetica Neueu, sans-serif;
 }
