@@ -482,10 +482,21 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: all 0.4s ease-in-out;
 }
 #portfolio-work .block .portfolio-contant ul li {
-  float: left;
-  width: 32.22%;
-  overflow: hidden;
-  margin: 6px;
+  /*float: left;*/
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: flex-start;;
+  align-content: flex-start;
+  justify-content: flex-start;
+  align-content: space-around;
+  flex-flow: wrap;
+  width: 40%;
+  /*width: 32.22%;*/
+  /*overflow: hidden;*/
+  margin: 1em;
   position: relative;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
@@ -861,7 +872,7 @@ footer .footer-manu ul li a:hover {
 #tech {
   margin-top: 60px;
   margin-bottom: 60px;
-  margin-right: 100px;  
+  margin-right: 100px;
   margin-left: 100px;
   font-family: Open Sans, Helvetica Neueu, sans-serif;
 }
@@ -873,7 +884,7 @@ footer .footer-manu ul li a:hover {
 .tech-about {
   margin-top: 40px;
   margin-bottom: 40px;
-  margin-right: 100px;  
+  margin-right: 100px;
   margin-left: 100px;
     font-family: Open Sans, Helvetica Neueu, sans-serif;
 }
