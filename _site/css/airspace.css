@@ -498,11 +498,10 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #portfolio-work .block .portfolio-contant ul li {
   float: none;
-  width: 40%;
+  width: 45%;
   text-align: center;
-  /*width: 32.22%;*/
   overflow: hidden;
-  margin: 1em auto;
+  margin: 2em;
   position: relative;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
