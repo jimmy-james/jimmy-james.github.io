@@ -170,6 +170,7 @@ font header .navbar-default .navbar-nav li a:hover {
   justify-content: center;
   align-content: space-between;
   flex-wrap: wrap;
+  margin: 4em;
   margin-bottom: 40px;
 }
 /*--
@@ -857,11 +858,10 @@ footer .footer-manu ul li a:hover {
   align-content: space-between;
 }
 .link-buttons {
-  height: 50px;
-  width: 120px;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 10px;
+  height: 5em;
+  width: 10em;
+  margin-left: 3em;
+  margin-right: 3em;
   font-weight: bold;
   border-style: solid;
   border-radius: 5px;
@@ -887,9 +887,13 @@ footer .footer-manu ul li a:hover {
   text-align: center;
 }
 .tech-about {
-  margin-top: 40px;
-  margin-bottom: 40px;
-  margin-right: 100px;
-  margin-left: 100px;
-    font-family: Open Sans, Helvetica Neueu, sans-serif;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  margin-right: 2em;
+  margin-left: 2em;
+  font-family: Open Sans, Helvetica Neueu, sans-serif;
+}
+
+.chat {
+  border: 2px solid #DEDEDE;
 }
