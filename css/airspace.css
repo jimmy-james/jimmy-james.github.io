@@ -909,7 +909,7 @@ footer .footer-manu ul li a:hover {
 .mix {
   border: 1px solid #DEDEDE;
 }
-.click-prompt {
+.click-prompt h3 {
   text-align: center;
   font-style: Open Sans, Helvetica Neueu, sans-serif;
   margin-top: 4em;
