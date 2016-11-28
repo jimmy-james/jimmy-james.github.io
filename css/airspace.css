@@ -512,6 +512,9 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
   opacity: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .position-center {
   position: absolute;
