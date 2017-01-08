@@ -23,15 +23,20 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', 'Roboto', sans-serif;
 }
 h2 {
   font-size: 30px;
   font-weight: 400;
 }
 h3 {
-  font-size: 28px;
+  font-size: 25px;
   font-weight: 300;
+}
+h4 {
+  font-size: 1.09em;
+  font-weight: 200;
+  color: black;
 }
 p {
   font-size: 15px;
@@ -73,8 +78,9 @@ header .navbar {
   border: 0px;
 }
 header .navbar-brand {
-  padding-top: 0px;
-  padding-bottom: 20px;
+  /*padding-top: 0px;*/
+  padding: auto;
+  /*padding-bottom: 20px;*/
 }
 header .navbar-default {
   background: none;
@@ -124,7 +130,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider .block h1 {
   text-align: left;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 55px;
   font-weight: bold;
@@ -135,7 +141,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block h3 {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', 'Roboto', sans-serif;
   font-weight: 300;
   letter-spacing: 3px;
 }
@@ -507,7 +513,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 45%;
   text-align: center;
   overflow: hidden;
-  margin: 2em;
+  margin: 1.5em;
   position: relative;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
@@ -845,6 +851,34 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+#about {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  align-content: space-between;
+  margin: 0 2% 0 2%;
+}
+.personal_photo {
+  background: url("../img/jim2.jpg") no-repeat;
+  background-size: 100% auto;
+  background-attachment: cover;
+  background-position: center center;
+  padding: 160px 0;
+  position: relative;
+  width: 55%;
+  object-fit: cover;
+}
+.personal_statement {
+  font-size: 16px;
+  width: 45%;
+  padding-left: 1.5em;
+  height: 280px;
+  overflow: scroll;
+}
 #button-section {
   margin-bottom: 50px;
 }
@@ -910,7 +944,8 @@ footer .footer-manu ul li a:hover {
   border: 1px solid #DEDEDE;
 }
 .click-prompt {
+  font-size: 2em;
   text-align: center;
-  font-style: Open Sans, Helvetica Neueu, sans-serif;
-  margin-top: 7em;
+  font-style: 'Open Sans', 'Helvetica Neueu', sans-serif;
+  margin-top: 3em;
 }
